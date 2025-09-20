@@ -52,8 +52,10 @@ This is a dyslexia-friendly **kids story website** designed to provide an engagi
 ## Lighthouse Scores
 - **Before Optimization:** ![Before]https://github.com/HadiaSaqib/Dyslexic-kid-story-website/blob/main/assests/images/Home_before.PNG
 -  https://github.com/HadiaSaqib/Dyslexic-kid-story-website/blob/main/assests/images/about_before.PNG
+-  https://github.com/HadiaSaqib/Dyslexic-kid-story-website/blob/main/assests/images/contact_before.PNG
+
 -  
-- **After Optimization:** ![After]https://github.com/HadiaSaqib/Stories-website-for-dyslexic-children/blob/main/Home_after.PNG
+- **After Optimization:** ![After]
 
 
 
