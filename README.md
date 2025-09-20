@@ -55,7 +55,8 @@ This is a dyslexia-friendly **kids story website** designed to provide an engagi
 -  https://github.com/HadiaSaqib/Dyslexic-kid-story-website/blob/main/assests/images/contact_before.PNG
 
 -  
-- **After Optimization:** ![After]
+- **After Optimization:** ![After]https://github.com/HadiaSaqib/Dyslexic-kid-story-website/blob/main/assests/images/home-after.PNG
+- 
 
 
 
