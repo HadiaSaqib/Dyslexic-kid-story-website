@@ -1,4 +1,4 @@
-# Team menbers
+# Team members
 Hadia Saqib(BCSF23M013),
 Javeria Riaz(BCSF23M016),
 Hafiza Ayesha Iqbal(BCSF23M019),
