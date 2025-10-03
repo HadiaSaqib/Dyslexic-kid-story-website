@@ -59,8 +59,8 @@ This is a dyslexia-friendly **kids story website** designed to provide an engagi
 - https://github.com/HadiaSaqib/Dyslexic-kid-story-website/blob/main/assests/images/about-after.PNG
 - https://github.com/HadiaSaqib/Dyslexic-kid-story-website/blob/main/assests/images/contact-after.PNG
 
-
-
+## Canva Poster
+https://dyslexic-children.my.canva.site/
 ## Live Website
 [Open Live Website] https://hadiasaqib.github.io/Dyslexic-kid-story-website/
 
